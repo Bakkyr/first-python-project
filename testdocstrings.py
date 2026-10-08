@@ -89,6 +89,6 @@ def get_total(value_list):
 # Call the main function.
 if __name__ == '__main__':
     main()
-
+print('End of program')
 
 pydoc.writedoc('testdocstrings')
